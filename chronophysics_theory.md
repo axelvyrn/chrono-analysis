@@ -1,4 +1,4 @@
-# Theory of Time — GG's Chronophysics Model
+# Theory of Time — A Chronophysics Model
 
 ## 1. Existence of Time
 
