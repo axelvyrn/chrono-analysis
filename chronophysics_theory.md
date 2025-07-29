@@ -20,8 +20,6 @@
 
 Time is not a construct of human thought alone; it is an existential property of the universe, a very funamental form of matter.
 
-> "Even if all clocks stop, the river flows."
-
 ---
 
 ## 2. Is Time Visible? Then What *Is* It?
@@ -39,7 +37,7 @@ Time seems to affect:
 - **Processes** — they decay or grow.
 - **Awareness** — memory, prediction, perception.
 
-Yet we don’t “see” time — we see **change**. So what is causing the change? I thought of following 3 possibilities.
+Yet we don’t “see” time, we see **change**. So what is causing the change? I thought of following possibilities:
 
 ---
 
@@ -56,15 +54,13 @@ Yet we don’t “see” time — we see **change**. So what is causing the chan
 - Perhaps it interacts with unknown **subatomic particles** (let’s call them *chronons*).
 - These trigger our perception of flow — much like photons trigger vision.
 
-> Time might be the music playing in a dimension we’ve muted.
-
 ---
 
 ## 4. Time as a Force (or Pseudo-force)
 
 ### Analogy:
 
-- **Centrifugal force** is a *reactionary* force — not real but perceived due to frame of reference.
+- **Centrifugal force** is a *reactionary* force — not real but perceived due to non-intertial frame of reference.
 
 Could time be similar?
 
@@ -72,36 +68,35 @@ Could time be similar?
 
 ### Thought:
 
-- Maybe we need a new **unit** to measure the *intensity of time flow* — like **temperature** for heat.
+- Maybe we need a new **unit** to measure the *intensity of time flow* — like **temperature** for heat flow and direction.
 - Current measurement (seconds) only tells *how long*, not *how strongly* time is being felt.
 
 ---
 
-## 5. The Time Field & Chronal Potential (Time Waterfall Theory)
+## 5. The Time Field & Chronal Potential (Time Field Theory)
 
 If time is a force, then:
 
 - There exists a **time field**.
 - Just like gravity has **gravitational potential**, time has **chronal potential**.
-- Maybe this field is not a regular field and falls like a waterfall and spreads over the universe, higher over rocks/stones like planets, galaxies depending on their high chronal potential and flowing smoothly over lower ones with less bumps, combine it with 7 and it might not diminish with distance.
+- Thus time must be triggered by some very dense mass, maybe at the center of the universe that radiates the field outward and it extends without any obstruction over the entire spacetime fabric
+- This gives rise to the implication that there might be places where time does *not* exist, like maybe the underside of the universe or the inside the body where time is created, like charge inside a hollow uniform charged body.
 
 Black holes warp spacetime — so:
 
 - Time must get “denser” or “more existential” around **massive** or **energetic** objects.
 
-> “Time drips slower where reality is heavy.”
-
 Let:
 
-- \(\vec{T}\): Time field vector
-- \(\phi_t\): Chronal potential (characteristic potential that differs based on material)
-- \(\vec{p}\): Observer's momentum vector
+- $$\vec{T}\$$ : Time field vector
+- $$\phi_t\$$ : Chronal potential (characteristic potential that differs based on material)
+- $$\vec{p}\$$ : Observer's momentum vector
 
 Then:
-\(\Delta t = \phi_t \cdot (\vec{T} \times \vec{p})\)
+$$\Delta t = \phi_t \cdot (\vec{T} \times \vec{p})\$$
 
 **Interpretation:**
-The flow of experienced time (\(\Delta t\)) is a product of the local chronal potential and the cross product of the time field and the observer’s momentum. This implies a perpendicular interaction — similar to electromagnetic forces — where direction and motion shape the experienced passage of time.
+The flow of experienced time $$\Delta t\$ is a product of the local chronal potential and the cross product of the time field and the observer’s momentum. This implies a perpendicular interaction — similar to electromagnetic forces — where direction and motion shape the experienced passage of time.
 
 ---
 
@@ -110,15 +105,13 @@ The flow of experienced time (\(\Delta t\)) is a product of the local chronal po
 Let’s suppose:
 
 - Time is not a line but a **closed timelike curve**.
-- We travel along this curve — never seeing the full circle, only a tangent.
+- We travel along this curve — never seeing the full circle, only a tangent, this $$dt/dx$$ of the time loop is the the span of time we are allowed to see in our lifetime.
 
 Now imagine:
 
 - An observer traveling in the **opposite** direction.
 - Their future becomes our past, and vice versa.
-- Or maybe time is something in the making, it is created and it creates based on our actions and their implications
-
-> Time is the carousel. We’re just facing one direction.
+- Or maybe time is something in the making, it is created and it creates based on our actions and their implications.
 
 ---
 
@@ -126,7 +119,7 @@ Now imagine:
 
 ### Premise:
 
-- Most forces weaken with distance — but time doesn’t “thin out”.
+- Most forces weaken with distance but time doesn’t “thin out”.
 
 So maybe:
 
@@ -136,8 +129,6 @@ So maybe:
 This also explains:
 
 - Why time is so *pure*: it cannot be corrupted, only experienced.
-
-> “Time doesn’t dilute. It discloses.”
 
 ---
 
@@ -156,6 +147,8 @@ Understanding time may require us to:
 - Invent new particles (Chronons?)
 - Define new units (Chronal intensity?)
 - Accept new geometries (Closed-loop vs Infinite plane?)
+
+My further objective is to weed out improbable theories out of these, work on existing ones as well probable ones in this theory and lift the veil.
 
 
 
