@@ -12,3 +12,6 @@ This means:
 The passage of time you feel ($$\Delta t$$) depends on how your momentum ($$\vec{p}$$) interacts with the direction of the time field ($$\vec{T}$$), and the strength of time at your location (chronal potential ($$\phi_t$$))
 
 The theory also explores whether time is a force, a wave, or an infinite field, and considers if it's something that can curve, loop, or carry us through it — like a river we don't yet see, but one we’re all flowing through.
+
+Theory: [here](theory_stub.md)
+Workinf Time definition: [here](time_defn.md)
