@@ -5,7 +5,13 @@ This theory explores a new way of understanding time — not as just something w
 Just like gravity affects how objects move, this theory proposes a "time field" that influences how living beings and particles experience time. The strength of this field — called chronal potential — could vary depending on mass, motion, or position in space (for example, near a black hole).
 
 In the latest update, time is described using an equation:
-$$\Delta t_{observer} = \phi_t \cdot (\vec{T} \times \vec{p})$$
+$$\Delta t = (-\nabla\phi_t) \cdot |(\vec{T} \times \vec{p})|$$
+
+and another variation proposes
+
+$$
+dt = dt \cdot \sqrt{1 - \frac{2GM}{rc^2}} \implies \sqrt{1 + \frac{2\phi_t(\vec{r}, t)}{c^2}}
+$$
 
 This means:
 
