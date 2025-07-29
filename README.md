@@ -14,5 +14,6 @@ The passage of time you feel ($$\Delta t$$) depends on how your momentum ($$\vec
 The theory also explores whether time is a force, a wave, or an infinite field, and considers if it's something that can curve, loop, or carry us through it — like a river we don't yet see, but one we’re all flowing through.
 
 Theory: [here](theory_stub.md)
+Experimental support and coherence with modern theories: [here](support_exp.md)
 
 Working Time definition: [here](time_defn.md)
