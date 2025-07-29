@@ -1,4 +1,4 @@
-# Theory of Time — A Chronophysics Model
+# Theory of Time — A Chronophysics Model (Thought Experiment)
 
 ## 1. Existence of Time
 
