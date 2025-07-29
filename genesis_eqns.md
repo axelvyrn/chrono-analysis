@@ -17,7 +17,7 @@ $$
 then inspired by GR’s Schwarzschild metric:
 
 $$
-dt = dt \cdot \sqrt{1 - \frac{2GM}{rc^2}} \implies \sqrt{1 + \frac{2\phi_t(\vec{r}, t)}{c^2}}
+d\tau = dt \cdot \sqrt{1 - \frac{2GM}{rc^2}} \implies \sqrt{1 + \frac{2\phi_t(\vec{r}, t)}{c^2}}
 $$
 
 This is another probable interpretation of time change and local proper time.
