@@ -21,6 +21,8 @@ The theory also explores whether time is a force, a wave, or an infinite field, 
 
 Theory: [here](theory_stub.md)
 
+Proposed Chronofield equations: [here](genesis_eqns.md)
+
 Experimental support and coherence with modern theories: [here](support_exp.md)
 
 Working Time definition: [here](time_defn.md)
