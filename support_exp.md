@@ -63,7 +63,7 @@ But it does, because:
 
 So, to match the faster ticking clocks higher up, the photons stretch their frequency. This only makes sense if time is a scalar field whose potential affects frequency.
 
-## Chronal Field Interpretation
+# Chronal Field Interpretation
 
 Just like electric potential affects a charge (via force), and gravitational potential affects mass:
 
@@ -97,31 +97,4 @@ $$
 The cross product indicates that $$\Delta t$$ is zero if momentum is parallel to the time field. This suggests that temporal distortion is greatest when motion is perpendicular to the temporal flux.
 
 If $$\phi_t$$ is a scalar chronal potential, it scales the whole vector product — just like charge q in electromagnetism.
-
-## Genesis Chronofield Equations
-
-1. Let
-
-$$
-\phi_t(\vec{r}, t)
-$$
-
-be the chronal potential which affects how fast clocks tick.
-
-2. If we define *time passage* (local proper time) as
-
-$$
-\frac{dt}{dx} = \sqrt{1 + \frac{2\phi_t(\vec{r}, t)}{c^2}}
-$$
-then inspired by GR’s Schwarzschild metric:
-$$
-dt = dt \cdot \sqrt{1 - \frac{2GM}{rc^2}} \implies \sqrt{1 + \frac{2\phi_t(\vec{r}, t)}{c^2}}
-$$
-
-## Possible Experimental Setup
-
-A Gedankenexperiment (thought experiment) or basis for simulation:
-
-> Place ultra-sensitive atomic clocks on supercooled superconducting gyroscopes that rotate in strong magnetic or gravitational fields. If a time-field exists and interacts with angular momentum, there might be a deviation in the clock rate not predicted by GR alone.
-
-Then I will be able to compare $$\Delta t$$ not just by altitude (GR) or speed (SR), but by orientation and momentum direction in relation to a hypothesized temporal field.
+More in my proposed [genesis euqations](genesis_eqns.md).
