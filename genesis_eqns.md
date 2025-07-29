@@ -56,4 +56,4 @@ A Gedankenexperiment (thought experiment) or basis for simulation:
 Then I will be able to compare $$\Delta t$$ not just by altitude (GR) or speed (SR), but by orientation and momentum direction in relation to a hypothesized temporal field.
 
 ## Final Notes
-My progress beyond this limit requires additional knowledge of advance quantum concepts, tensors, operators (specifically Lagrangian and Hamiltonian) both to proceed with mathematical proofs as well as experiments to prove where I was wrong myself.
+My progress beyond this limit requires additional knowledge of advance quantum concepts, tensors, operators (specifically Lagrangian and Hamiltonian) both to proceed with mathematical proofs as well as experiments to prove where I was wrong myself. This project will be updated accordingly.
