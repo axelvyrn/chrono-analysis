@@ -10,7 +10,7 @@ $$\Delta t = (-\nabla\phi_t) \cdot |(\vec{T} \times \vec{p})|$$
 and another variation proposes
 
 $$
-dt = dt \cdot \sqrt{1 - \frac{2GM}{rc^2}} \implies \sqrt{1 + \frac{2\phi_t(\vec{r}, t)}{c^2}}
+d\tau = dt \cdot \sqrt{1 - \frac{2GM}{rc^2}} \implies \sqrt{1 + \frac{2\phi_t(\vec{r}, t)}{c^2}}
 $$
 
 This means:
