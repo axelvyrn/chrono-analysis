@@ -1,4 +1,6 @@
-# Abstract:
+# Abstract: [![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
+
+
 
 This theory explores a new way of understanding time — not as just something we measure with clocks, but as a force or wave-like field that flows through the universe. The key idea is that time isn't separate from space or matter, but deeply connected to both.
 
