@@ -73,7 +73,7 @@ $$
 \frac{\Delta f}{f} = \frac{\Delta\phi_t}{c^2}
 $$
 
-This is literally the form of the gravitational redshift equation, but instead of interpreting Φ_c as gravitational potential only, we interpret it as a chronal field — the field of time rate variations.
+This is literally the form of the gravitational redshift equation, but instead of interpreting $$\phi_t$$ as gravitational potential only, we interpret it as a chronal field — the field of time rate variations.
 
 In fact, the redshift formula:
 
