@@ -29,9 +29,13 @@ I initially thought, that a time change (local to an observer)
 $$\Delta t = \phi_t \cdot |(\vec{T} \times \vec{p})|$$
 
 where,
+
 $$\phi_t$$ = chronal potential, a scalar field indicating the intensity of time at a point
+
 $$\vec{T}$$ = Chronal direction vector (direction of "temporal flow")
+
 $$\vec{p}$$ = Momentum vector since time seems to be influenced my both mass and velocity
+
 $$\vec{T} \times \vec{p}$$ = A vector perpendicular to both — akin to an induced "chronal torque"?
 
 I'm trying to put forward the fact that a change in time is induced by a change in both the interaction of the body with the Time vector and its potential (a moving mass)
@@ -43,8 +47,11 @@ So then we get,
 $$\Delta t = (-\nabla\phi_t) \cdot |(\vec{T} \times \vec{p})|$$
 
 Which links directly to massive objects altering time flow.
+>
 >This equation resembles the Lorentz force but for chronodynamics:
+>
 >$$\vec{F} = q(\vec{E} + \vec{v} \times \vec{B})$$
+>
 >and I'm trying to promote a similar conceptual model where time change is influenced by a potential (like electric field), and also by the interaction of motion and the time field.
 
 ## Possible Experimental Setup
