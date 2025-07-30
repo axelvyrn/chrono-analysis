@@ -55,7 +55,7 @@ Chronal potential is a measure of how time flows per unit of momentum-space disp
 
 It inversely scales with mass and position, implying heavier or faster-moving objects dampen the local time flow (sounds heretical to Minkowski and Schwarzschild metrics)
 
-<img width="912" height="515" alt="Interpretation" src="https://github.com/user-attachments/assets/46638d0e-6559-4709-b2f0-8d988f498127" />
+<img width="932" height="525" alt="image" src="https://github.com/user-attachments/assets/96d3c185-3155-4496-9bd5-811955d3de9f" />
 
 Let chronal field vector 
 
