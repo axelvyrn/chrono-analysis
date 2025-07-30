@@ -47,6 +47,27 @@ So then we get,
 $$\Delta t = (-\nabla\phi_t) \cdot |(\vec{T} \times \vec{p})|$$
 
 Which links directly to massive objects altering time flow and that **an object parallel to the flow of time would not experience it**.
+The required unit of chronal potential $$\phi_t$$ would be $$\frac{s}{kg \cdot m}$$
+
+If we accept these units for the chronal potential, it means:
+
+Chronal potential is a measure of how time flows per unit of momentum-space displacement.
+
+It inversely scales with mass and position, implying heavier or faster-moving objects dampen the local time flow (sounds heretical to Minkowski and Schwarzschild metrics)
+
+<img width="912" height="515" alt="image" src="https://github.com/user-attachments/assets/46638d0e-6559-4709-b2f0-8d988f498127" />
+
+Let chronal field vector 
+
+$$\vec{C} = -\nabla\phi_t$$
+
+so it becomes
+
+$$\Delta t = \vec{C} \cdot |(\vec{T} \times \vec{p})|$$
+
+so maybe,
+
+$$\Delta t = \int_{a}^{b} \vec{C}\, \vec{dl}$$
 >
 >This equation resembles the Lorentz force but for chronodynamics:
 >
