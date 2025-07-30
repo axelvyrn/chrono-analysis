@@ -67,7 +67,7 @@ $$\Delta t = \vec{C} \cdot |(\vec{T} \times \vec{p})|$$
 
 so maybe,
 
-![Integral](https://latex.codecogs.com/png.image?\dpi{120}&space;\Delta%20t=\int_{A}^{B}\vec{C}\d%20\vec{l})
+![Integral](https://latex.codecogs.com/png.image?\dpi{120}&space;\Delta%20t=\int_{A}^{B}\vec{C}\,d%20\vec{l})
 
 >
 >This equation resembles the Lorentz force but for chronodynamics:
