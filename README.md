@@ -28,3 +28,7 @@ Proposed Chronofield equations: [here](genesis_eqns.md)
 Experimental support and coherence with modern theories: [here](support_exp.md)
 
 Working Time definition: [here](time_defn.md)
+
+GR says "spacetime curves." I do not disprove it but...
+I ask: "But what medium bends, and what causes the curvature?"
+It might turn false or useless later, but it was worth trying to me.
