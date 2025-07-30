@@ -80,7 +80,7 @@ If time is a force, then:
 - There exists a **time field**.
 - Just like gravity has **gravitational potential**, time has **chronal potential**.
 - Thus time must be triggered by some very dense mass, maybe at the center of the universe that radiates the field outward and it extends without any obstruction over the entire spacetime fabric
-- This gives rise to the implication that there might be places where time does *not* exist, like maybe the underside of the universe or the inside the body where time is created, like charge inside a hollow uniform charged body.
+- This gives rise to the implication that there might be places where time does *not* exist, like maybe the underside of the universe or the inside the body where time is created, like charge inside a hollow uniform charged body, even the Schwarzschild metric defines an event horizon, a point of no return for time (the Schwarzschild radius).
 
 Black holes warp spacetime — so:
 
