@@ -95,7 +95,7 @@ Let:
 Then:
 $$\Delta t = \phi_t \cdot (\vec{T} \times \vec{p})\$$
 
-<img width="912" height="515" alt="Interpretation" src="https://github.com/user-attachments/assets/46638d0e-6559-4709-b2f0-8d988f498127" />
+<img width="932" height="525" alt="image" src="https://github.com/user-attachments/assets/96d3c185-3155-4496-9bd5-811955d3de9f" />
 
 **Interpretation:**
 The flow of experienced time $$\Delta t\$$ is a product of the local chronal potential and the cross product of the time field and the observer’s momentum. This implies a perpendicular interaction — similar to electromagnetic forces — where direction and motion shape the experienced passage of time.
