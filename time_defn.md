@@ -3,7 +3,7 @@
 
 > **Time is the differentiating quality or energetic potential that allows events to be experienced or measured as distinct or simultaneous.**
 
-This means time is not merely *what the clock ticks*, but a field-like property or intrinsic condition that allows for the *relational classification* of events. This definition integrates both relativistic and quantum perspectives (although I know very little about them).
+This means time is not merely *what the clock ticks*, but a field-like property or intrinsic condition that allows for the *relational classification* of events. This definition integrates both relativistic and quantum perspectives.
 
 ### Polished Scientific Form:
 > Time is the fundamental property that enables the distinction or coincidence of events in a given frame of reference, potentially arising from an underlying field or relational dynamic.
