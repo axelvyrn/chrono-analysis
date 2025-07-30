@@ -46,7 +46,7 @@ So then we get,
 
 $$\Delta t = (-\nabla\phi_t) \cdot |(\vec{T} \times \vec{p})|$$
 
-Which links directly to massive objects altering time flow.
+Which links directly to massive objects altering time flow and that **an object parallel to the flow of time would not experience it**.
 >
 >This equation resembles the Lorentz force but for chronodynamics:
 >
