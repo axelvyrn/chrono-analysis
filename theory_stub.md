@@ -124,7 +124,7 @@ Now imagine:
 So maybe:
 
 - Time is **perfectly ideal**, like a **mathematical plane,** because ideally, *how can you make time impure?*
-- Time can exist like an **electric field of an infinite sheet**, its effect is **uniform** and **undiminished** in local space.
+- Time can exist like an **electric field of an infinite sheet**($\frac{Q}{2\epsilon_0}$), its effect is **uniform** and **undiminished** in local space.
 
 This also explains:
 
