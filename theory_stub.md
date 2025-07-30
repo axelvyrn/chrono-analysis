@@ -114,8 +114,8 @@ Now imagine:
 - An observer traveling in the **opposite** direction.
 - Their future becomes our past, and vice versa.
 - Or maybe time is something in the making, it is created and it creates based on our actions and their implications.
-<img width="816" height="511" alt="image" src="https://github.com/user-attachments/assets/f2a7a472-a608-449b-a1a9-8752ec6fc544" />
 
+<img width="834" height="501" alt="image" src="https://github.com/user-attachments/assets/c86d205d-8051-421b-ae4c-adbad2324f27" />
 
 ---
 
