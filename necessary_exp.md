@@ -90,4 +90,3 @@ If we spot odd patterns that don’t match known physics, it might be due to “
 
 These aren’t experiments with answers yet — more like open-ended questions aimed at poking the universe. What if time is something more than a ticking clock? Something alive, responsive, textured? These ideas may seem speculative, but they could help crack open a deeper understanding of time — not just how it passes, but *how it lives*. Of course, it's all thanks to great people like Einstein, Schwarzschild, Newton, Hawking and others who made time better to understand.
 
----
