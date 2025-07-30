@@ -4,7 +4,7 @@
 
 ### Premises:
 
-- Time is currently measured in seconds — a man-made unit. So either:
+- Time is currently measured in seconds — a man-made unit. So lets start with contradictions, either:
   - Time does **not** exist and we’re measuring a *non-entity*, or
   - Time **does** exist and our unit is merely a convention.
 
@@ -18,20 +18,20 @@
 
 ### Conclusion:
 
-Time is not a construct of human thought alone; it is an existential property of the universe, a very funamental form of matter.
+Time is not a construct of human thought alone; it is an existential property of the universe or (maybe) a very funamental form of matter.
 
 ---
 
 ## 2. Is Time Visible? Then What *Is* It?
 
-If something exists but is not directly observable, it must be:
+If something exists but cannot be directly observed, then it must be:
 
 - A **field**, like magnetism.
 - A **wave**, like light.
 - A **force**, like gravity.
 - Or a **substrate**, like spacetime.
 
-Time seems to affect:
+But time seems to affect:
 
 - **Events** — they are sequenced.
 - **Processes** — they decay or grow.
@@ -47,7 +47,7 @@ Yet we don’t “see” time, we see **change**. So what is causing the change?
 
 - If time is a wave:
   - It must propagate through a **medium**.
-  - That medium is likely **invisible** to our sensory system.
+  - That medium is likely **invisible** to our sensory system, maybe something so fundamental like gravity, that we are hardwired to ignore it. Like the nose in front of our eyes.
 
 ### Hypothesis:
 
@@ -56,19 +56,19 @@ Yet we don’t “see” time, we see **change**. So what is causing the change?
 
 ---
 
-## 4. Time as a Force (or Pseudo-force)
+## 4. Time as a Force (or Pseudo-force or Reactionary force)
 
 ### Analogy:
 
-- **Centrifugal force** is a *reactionary* force — not real but perceived due to non-intertial frame of reference.
+- **Centrifugal force** is a *pseudo* force - not real but perceived due to non-intertial frame of reference.
 
 Could time be similar?
 
-- Not a “push” or “pull” but a **reaction** to existing in a field.
+- Not a “push” or “pull” but a **reaction** to existing in it or due to something doing in it?
 
 ### Thought:
 
-- Maybe we need a new **unit** to measure the *intensity of time flow* — like **temperature** for heat flow and direction.
+- Maybe we need a new **unit** to measure the *intensity of time flow* — like without **temperature** you cannot measure heat flow and direction.
 - Current measurement (seconds) only tells *how long*, not *how strongly* time is being felt.
 
 ---
@@ -80,11 +80,11 @@ If time is a force, then:
 - There exists a **time field**.
 - Just like gravity has **gravitational potential**, time has **chronal potential**.
 - Thus time must be triggered by some very dense mass, maybe at the center of the universe that radiates the field outward and it extends without any obstruction over the entire spacetime fabric
-- This gives rise to the implication that there might be places where time does *not* exist, like maybe the underside of the universe or the inside the body where time is created, like charge inside a hollow uniform charged body, even the Schwarzschild metric defines an event horizon, a point of no return for time (the Schwarzschild radius).
+- This gives rise to the implication that there might be places where time does *not* exist, like maybe the underside of the universe (lol) or the inside the body where time is created, like charge inside a hollow uniform charged body, even the Schwarzschild metric defines an event horizon, a point of no return for time (the Schwarzschild radius).
 
 Black holes warp spacetime — so:
 
-- Time must get “denser” or “more existential” around **massive** or **energetic** objects.
+- Time must get “denser” or “more existential” around **massive** or **energetic** objects (proved by GR).
 
 Let:
 
@@ -94,6 +94,8 @@ Let:
 
 Then:
 $$\Delta t = \phi_t \cdot (\vec{T} \times \vec{p})\$$
+
+<img width="912" height="515" alt="Interpretation" src="https://github.com/user-attachments/assets/46638d0e-6559-4709-b2f0-8d988f498127" />
 
 **Interpretation:**
 The flow of experienced time $$\Delta t\$$ is a product of the local chronal potential and the cross product of the time field and the observer’s momentum. This implies a perpendicular interaction — similar to electromagnetic forces — where direction and motion shape the experienced passage of time.
@@ -112,6 +114,8 @@ Now imagine:
 - An observer traveling in the **opposite** direction.
 - Their future becomes our past, and vice versa.
 - Or maybe time is something in the making, it is created and it creates based on our actions and their implications.
+<img width="816" height="511" alt="image" src="https://github.com/user-attachments/assets/f2a7a472-a608-449b-a1a9-8752ec6fc544" />
+
 
 ---
 
