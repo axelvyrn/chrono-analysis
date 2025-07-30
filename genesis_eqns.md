@@ -55,7 +55,7 @@ Chronal potential is a measure of how time flows per unit of momentum-space disp
 
 It inversely scales with mass and position, implying heavier or faster-moving objects dampen the local time flow (sounds heretical to Minkowski and Schwarzschild metrics)
 
-<img width="912" height="515" alt="image" src="https://github.com/user-attachments/assets/46638d0e-6559-4709-b2f0-8d988f498127" />
+<img width="912" height="515" alt="Interpretation" src="https://github.com/user-attachments/assets/46638d0e-6559-4709-b2f0-8d988f498127" />
 
 Let chronal field vector 
 
@@ -67,7 +67,8 @@ $$\Delta t = \vec{C} \cdot |(\vec{T} \times \vec{p})|$$
 
 so maybe,
 
-$$\Delta t = \int_{a}^{b} \vec{C}\, \vec{dl}$$
+![Integral](https://latex.codecogs.com/png.image?\dpi{120}&space;\Delta%20t=\int_{A}^{B}\vec{C}\d%20\vec{l})
+
 >
 >This equation resembles the Lorentz force but for chronodynamics:
 >
