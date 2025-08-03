@@ -21,14 +21,16 @@ The passage of time you feel ($$\Delta t$$) depends on how your momentum ($$\vec
 
 The theory also explores whether time is a force, a wave, or an infinite field, and considers if it's something that can curve, loop, or carry us through it — like a river we don't yet see, but one we’re all flowing through.
 
-Theory: [here](theory_stub.md)
-
-Proposed Chronofield equations: [here](genesis_eqns.md)
-
-Experimental support and coherence with modern theories: [here](support_exp.md)
-
-Working Time definition: [here](time_defn.md)
 
 GR says "spacetime curves." I do not disprove it but...
 I ask: "But what medium bends, and what causes the curvature?"
 It might turn false or useless later, but it was worth trying to me.
+
+# Pagination
+
+This the correct order of reading the project:
+1. [Time Definition](time_defn.md)
+2. [Theory of Time](theory_stub.md)
+3. [Supporting Experiments to the Theory](support_exp.md)
+4. [Genesis Chronofield Equations](genesis_eqns.md)
+5. [Necessary Experiments for the Theory](necessary_exp.md)
