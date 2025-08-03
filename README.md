@@ -28,7 +28,7 @@ It might turn false or useless later, but it was worth trying to me.
 
 # Pagination
 
-This the correct order of reading the project:
+This is the correct order of reading the project:
 1. [Time Definition](time_defn.md)
 2. [Theory of Time](theory_stub.md)
 3. [Supporting Experiments to the Theory](support_exp.md)
