@@ -152,7 +152,7 @@ Understanding time may require us to:
 - Define new units (Chronal intensity?)
 - Accept new geometries (Closed-loop vs Infinite plane?)
 
-My further objective is to weed out improbable theories out of these, work on existing ones as well probable ones in this theory and lift the veil.
+My further objective is to weed out improbable theories out of these, work on existing ones as well as probable ones in this theory or rather reconstitute my perception if there are any further additions to my knowledge.
 
 
 
