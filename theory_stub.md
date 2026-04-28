@@ -1,10 +1,10 @@
-# Theory of Time — A Chronophysics Model (Thought Experiment)
+# Theory of Time (A Random Thought Experiment)
 
 ## 1. Existence of Time
 
 ### Premises:
 
-- Time is currently measured in seconds — a man-made unit. So lets start with contradictions, either:
+- Time is currently measured in seconds - a man-made unit. So lets start with contradictions, either:
   - Time does **not** exist and we’re measuring a *non-entity*, or
   - Time **does** exist and our unit is merely a convention.
 
