@@ -27,5 +27,6 @@ This is the correct order of reading the project:
 1. [Time Definition](time_defn.md)
 2. [Theory of Time](theory_stub.md)
 3. [Supporting Experiments to the Theory](support_exp.md)
-4. [Genesis Chronofield Equations](genesis_eqns.md)
-5. [Necessary Experiments for the Theory](necessary_exp.md)
+4. [Thoughts about Negative and Imaginary Time](negative_time.md)
+5. [Genesis Chronofield Equations](genesis_eqns.md)
+6. [Necessary Experiments for the Theory](necessary_exp.md)
